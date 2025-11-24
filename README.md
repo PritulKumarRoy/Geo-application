@@ -14,3 +14,5 @@ The smart GNSS system is an android based mobile application that provides effic
 4. Deliver map(OSM) navigation with access to various map tiles.
 5. Offer capture coordinate feature.
 
+
+# PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
