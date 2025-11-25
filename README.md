@@ -27,9 +27,9 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <p>
   <ul style="display:flex; gap:20px; padding-left:0; list-style-position= inside;">
-    <li> ### Flutter </li>
-    <li> ### Firebase </li>
-    <li> ### OpenStreetMap(OSM) </li>
+    <li> ### Flutter &nbsp;&nbsp;</li>
+    <li> ### Firebase &nbsp;&nbsp;</li>
+    <li> ### OpenStreetMap(OSM) &nbsp;&nbsp;</li>
     <li> ### Java development kit(JDK) </li>
     <li> ### Gradle </li>
     <li> ### Notepad </li>
