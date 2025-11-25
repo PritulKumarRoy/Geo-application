@@ -48,5 +48,5 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # Application working archietecture <img src="d.png" width="40" align="left"/>
 
-<img src="h.png" height="10000" width="100" align="center"/>
+<img src="h.png" height="100000" width="1000" align="center"/>
   
