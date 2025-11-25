@@ -1,5 +1,6 @@
 # SMART GNSS SYSTEM
 ## *A mobile application for geofencing, navigation and location-based services.*
+<br><br>
 
 # OVERVIEW <img src="b.png" width="40" align="left"/>
 
@@ -20,6 +21,7 @@ The smart GNSS system is an android based mobile application that provides effic
 <br><br>
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
+<br>
 
 <table> 
 <tr> 
@@ -46,5 +48,5 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # Application working archietecture <img src="d.png" width="40" align="left"/>
 
-<img src="h.png" height="1000000" width="10000" align="center"/>
+<img src="h.png" height="10000" width="100" align="center"/>
   
