@@ -24,15 +24,14 @@ The smart GNSS system is an android based mobile application that provides effic
 <p>
   <ul style="display:flex; gap:20px; padding-left:0; list-style-position= inside;">
     <li> <img src="l1.png" width="40" align="left"/> Flutter </li>
-    <li> <img src="l2.png" width="40" align="left"/> Firebase </li>
-    <li> <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l2.png" width="40" align="left"/> Firebase </li>
+    &nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </li>
     <li> <img src="l4.png" width="40" align="left"/> Java development kit(JDK) </li>
     <li> <img src="l5.png" width="40" align="left"/> Gradle </li>
-    <li> ### Notepad </li>
-    <li> ### Android studio </li>
-    <li> ### Visual studio </li>
-    <li> ### API key </li>
-    <li> ### Map tiler </li>
+    <li> <img src="l8.png" width="40" align="left"/> Notepad </li>
+    <li> <img src="l6.png" width="40" align="left"/> Android studio </li>
+    <li> <img src="l7.png" width="40" align="left"/> Visual studio </li>
+    <li> <img src="l9.png" width="40" align="left"/> Map tiler </li>
   </ul>
 </p>
     
