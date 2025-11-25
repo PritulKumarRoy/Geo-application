@@ -22,4 +22,29 @@ The smart GNSS system is an android based mobile application that provides effic
 3. Unavailability of a effecient mobile based system that can detect user location within predefined geographic areas while ensuring accuracy and low battery consumption.
 4. OpenStreetMap lacks real-time path trajectory display based on user location data and capture coordinate ability.
 
+
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
+
+<p>
+  <ul style="display:flex; gap:20px; padding-left:0; list-style-position= inside;">
+    <li> ### Flutter </li>
+    <li> ### Firebase </li>
+    <li> ### OpenStreetMap(OSM) </li>
+    <li> ### Java development kit(JDK) </li>
+    <li> ### Gradle </li>
+    <li> ### Notepad </li>
+    <li> ### Android studio </li>
+    <li> ### Visual studio </li>
+    <li> ### API key </li>
+    <li> ### Map tiler </li>
+  </ul>
+</p>
+    
+
+
+
+
+
+    
+  </ul>
+</p>
