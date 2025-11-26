@@ -104,6 +104,36 @@ The smart GNSS system is an android based mobile application that provides effic
 # Key functions <img src="e.png" width="40" align="left"/>
 <br>
 
+<div style ("display: flex; flex-wrap: wrap; gap: 20px">
+<div style ("width: 45%; min-width: 300px;">
+<h3> Registration screen </h3>
+<ul> 
+  <li> New user account registration </li>
+  <li> Old user account re-login </li>
+  <li> User account deletion (if-wanted) </li> 
+</ul> 
+</div>
+
+<div style ("width: 45%; min-width: 300px;">
+<h3> Login screen </h3>
+<ul> 
+  <li> User account login (exact input of login credentials) </li>
+  <li> New user registration and re-login </li>
+  <li> Access to main "Home page" of the application </li> 
+</ul> 
+</div>
+
+<div style ("width: 45%; min-width: 300px;">
+<h3>Home page</h3>
+<ul> 
+  <li> User profile display </li>
+  <li> Display of the '3' main buttons of the application </li>
+  <li> User logout access </li> 
+</ul> 
+</div>
+
+</div>
+
 
 
 
