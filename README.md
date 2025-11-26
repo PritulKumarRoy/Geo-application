@@ -54,19 +54,18 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # Mobile interfaces <img src="i.png" width="40" align="left"/>
 <br>
-
 <table> 
   <tr valign="top">
   <td style ("border: none; text-align: left;">
   <h3>Registration screen</h3>
     <br>
-  <img src="sa.png" width="300">
+  <img src="sa.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Login screen</h3>
     <br>
-  <img src="sb.png" width="300">
+  <img src="sb.png" width="400">
     </td>
   </tr>
     
@@ -74,13 +73,13 @@ The smart GNSS system is an android based mobile application that provides effic
   <td style ("border: none; text-align: left;">
   <h3>Home screen</h3>
     <br>
-  <img src="sc.png" width="300">
+  <img src="sc.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Location tracking screen</h3>
     <br>
-  <img src="sd.png" width="300">
+  <img src="sd.png" width="400">
     </td>
   </tr>
     
@@ -88,13 +87,13 @@ The smart GNSS system is an android based mobile application that provides effic
   <td style ("border: none; text-align: left;">
   <h3>Custom geofence screen</h3>
     <br>
-  <img src="se.png" width="300">
+  <img src="se.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Map screen</h3>
     <br>
-  <img src="sf.png" width="300">
+  <img src="sf.png" width="400">
     </td>
   </tr>
 <br><br>
@@ -107,6 +106,7 @@ The smart GNSS system is an android based mobile application that provides effic
 <div style ("display: flex; flex-wrap: wrap; gap: 20px">
 <div style ("width: 45%; min-width: 300px;">
 <h3> Registration screen </h3>
+  <br>
 <ul> 
   <li> New user account registration. </li>
   <li> Old user account re-login. </li>
@@ -116,6 +116,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <div style ("width: 45%; min-width: 300px;">
 <h3> Login screen </h3>
+  <br>
 <ul> 
   <li> User account login (exact input of login credentials). </li>
   <li> New user registration and re-login. </li>
@@ -125,6 +126,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <div style ("width: 45%; min-width: 300px;">
 <h3>Home screen</h3>
+  <br>
 <ul> 
   <li> User profile display. </li>
   <li> Display of the '3' main buttons of the application. </li>
@@ -134,6 +136,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <div style ("width: 45%; min-width: 300px;">
 <h3>Location tracking screen</h3>
+  <br>
 <ul> 
   <li> User current location data analytics display </li>
   <li> Real-time location check against pre-defined geofence boundary with proper fingerprint authentication in order to detect an user is currently 'inside' or 'outside' the boundary. </li>
@@ -145,6 +148,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <div style ("width: 45%; min-width: 300px;">
 <h3>Custom geofence screen</h3>
+  <br>
 <ul> 
   <li> Any user's real-time location check against pre-defined geofence boundary only with availability of 'latitude' and 'longitude' data. </li>
   <li> User real-time path trajectory track on OSM display with analytics. </li>
@@ -155,6 +159,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <div style ("width: 45%; min-width: 300px;">
 <h3>Map screen</h3>
+  <br>
 <ul> 
   <li> OpenStreetMap display with location navigation. </li>
   <li> Capture coordinate ability by clicking on any location of map. </li>
