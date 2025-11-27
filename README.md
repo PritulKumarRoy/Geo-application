@@ -188,7 +188,7 @@ The smart GNSS system is an android based mobile application that provides effic
   background: transparent; 
   display: inline-block;">
   
-  FINAL NOTE </div>
+  <u>FINAL NOTE</u> </div>
   
   <p> Thanks for reading! If you like this project please ⭐ the repo and feel to open issues or PRs. Suggestions are always welcome! </p>
 
