@@ -1,4 +1,4 @@
-<h1 style="background-color: #180806;"> 
+<h1 style="background-color: #180806; color: white; padding: 8px;"> 
 SMART GNSS SYSTEM </h1>
 
 ## *A mobile application for geofencing, navigation and location-based services.*
